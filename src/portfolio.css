@@ -73,13 +73,23 @@
  }
 
  .project-description {
-   padding: 120px 60px 0;
+   padding: 60px 60px;
 
  }
 
- img {
-  height: 50px;
- }
+  #bookimg {
+    width: 600px;
+  }
+
+  .row div {
+    
+    padding: 30px;
+  }
+
+   .filter-image {
+    text-align: center;
+   }
+
 
  @media (max-width: 900px) {
    h1 {
